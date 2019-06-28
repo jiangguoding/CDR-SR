@@ -12,7 +12,7 @@ Run Enviroment:
 
 
 
-#1.  test
+# 1.  test
 -----------------------------------------------------------------
    run command:
      python cda_test.py
@@ -42,10 +42,10 @@ Run Enviroment:
        copy to data/set5  or data/set14 directory,  and run cda_test.py
 
 
-#2.  train the model  if you want to: 
+# 2.  train the model  if you want to: 
 -----------------------------------------------------------------
 
-##2.1  train init
+# 2.1  train init
 --------------------------------------------
    run command:
       python cda_init.py
@@ -56,7 +56,7 @@ Run Enviroment:
      If you have the preprocessing files,  just skip this step.
 
 
-##2.2  training.
+# 2.2  training.
 --------------------------------------------
    run command:
       python cda_train.py
@@ -85,7 +85,7 @@ Run Enviroment:
         modify cda_train.py and run:  python cda_train.py
         Then the training will first load model/paramter from step-only files,  then start training.
       
-     ############!!!!!!!!!!!!!!!!!!!!###################
+#     ############ Note ###################
      If you finish all your train,  
          you should copy  the following 3 files to  directory : {{ model/test }}
             cda_model.ckpt.index
