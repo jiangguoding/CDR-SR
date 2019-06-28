@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tcl/tensor/ok1/s4/src/model/train/cda_model.ckpt"
+all_model_checkpoint_paths: "/home/tcl/tensor/ok1/s4/src/model/train/cda_model.ckpt"
