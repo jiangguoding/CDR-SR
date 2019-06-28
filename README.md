@@ -10,7 +10,11 @@ It is my first case of my AI study.  Now it is free to share with loved friends.
 Run Enviroment:
    Linux + python + tensorflow + Numpy + PIL
 
-
+# 0. Unzip training and testing data 
+  unzip test.zip and traing.zip in the data directory.
+  Directory like:
+     data\test\
+     data\training\
 
 # 1.  test
 -----------------------------------------------------------------
