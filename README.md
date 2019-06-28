@@ -10,9 +10,7 @@ It is my first case of my AI study.  Now it is free to share with loved friends.
 Run Enviroment:
    Linux + python + tensorflow + Numpy + PIL
 
-Note:   
- For the directory structure,  please refer to the doc file.
- all the following exec in "src" directory
+
 
 1.  test
 -----------------------------------------------------------------
